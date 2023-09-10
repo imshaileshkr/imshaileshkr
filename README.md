@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Shailesh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -8,7 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **pulse/manufacturer/prodo-> Many project**
+
+- 👯 I’m looking to collaborate on **Frontend development**
+
+- 🤝 I’m looking for help with **-**
+
+- 💬 Ask me about **reactjs, vuejs, javascript, typescript, tailwind**
+
 - 📫 How to reach me **kshailesh996@gmail.com**
+
+- 📄 Know about my experiences [-](-)
+
+- ⚡ Fun fact **It's work on my machine.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -29,5 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imshaileshkr&show_icons=true&locale=en" alt="imshaileshkr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imshaileshkr&" alt="imshaileshkr" /></p>
+
 <a href="https://app.daily.dev/Shaileshkr"><img src="https://api.daily.dev/devcards/039a7fac1e2d4e9f805c49101929d4e5.png?r=wlu" width="400" alt="Shailesh Kumar's Dev Card"/></a>
 
